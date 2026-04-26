@@ -67,3 +67,12 @@ node <script> "your prompt" --token YOUR_TOKEN
 
 Returns a direct image URL.
 
+## Example Output
+
+```bash
+node cosplayreferencegenerator.js "full body cosplay character reference sheet, T-pose front view, detailed costume design, vibrant colors, clean white background, professional reference art, full outfit visible, multiple costume details"
+```
+
+![Example output](https://oss.talesofai.cn/picture/8bba272d-5272-4d63-9265-1d1f68980311.webp)
+
+> Prompt: *"full body cosplay character reference sheet, T-pose front view, detailed costume design, vibrant colors, clean white background, professional reference art, full outfit visible, multiple costume details"*
